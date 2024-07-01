@@ -1,7 +1,15 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+## Read Along
+Created a project management board that lets
+one move, drag, and drop tasks from one lane to another using the
+HTML5 Drag and Drop API. The data flow of this application is
+handled using local state and life cycles and determines which
+tasks are displayed in the different lanes. This project ensures use on common hooks and also
+introduced the advanced React pattern of custom Hooks. With
+custom Hooks, we can reuse state logic in function components
+across your applications.
 ## Available Scripts
 
 In the project directory, you can run:
